@@ -10,9 +10,23 @@ Decentralized Crypto Social Club Established 2021
 
  Founding Whitepaper 2021
 
-ANTI CRYPTO CRYPTO CLUB   $ANTI TOKEN  INDEX  WHAT IS THE ANTI CRYPTO CRYPTO CLUB? P.3  WHO IS THE ANTI CRYPTO CRYPTO CLUB FOR? P.3  WHY THE ANTI CRYPTO CRYPTO CLUB WAS CREATED? P.3  WHAT IS THE PURPOSE OF THE ANTI TOKEN? P.4  CLUB RULES AND VALUES  P.4  CLUB MEMBER HODLER TIERS  P.5  SUPPLY SCHEDULE  P.6  CONTRACT FEATURES  P.7  LICENCE  P.7
-           WHAT IS THE ANTI CRYPTO CRYPTO CLUB?   A decentralized member run social club.
-Created as a social experiment aimed at bringing the crypto community together.    WHO IS THE ANTI CRYPTO CRYPTO CLUB FOR?  If you were ANTI crypto
+ANTI CRYPTO CRYPTO CLUB 
+$ANTI TOKEN 
+INDEX 
+WHAT IS THE ANTI CRYPTO CRYPTO CLUB? P.3 
+ WHO IS THE ANTI CRYPTO CRYPTO CLUB FOR? P.3 
+ WHY THE ANTI CRYPTO CRYPTO CLUB WAS CREATED? P.3 
+ WHAT IS THE PURPOSE OF THE ANTI TOKEN? P.4 
+ CLUB RULES AND VALUES  P.4 
+ CLUB MEMBER HODLER TIERS  P.5 
+ SUPPLY SCHEDULE  P.6 
+ CONTRACT FEATURES  P.7 
+ LICENCE  P.7
+ 
+           WHAT IS THE ANTI CRYPTO CRYPTO CLUB?  
+ A decentralized member run social club.
+Created as a social experiment aimed at bringing the crypto community together.  
+ WHO IS THE ANTI CRYPTO CRYPTO CLUB FOR?  If you were ANTI crypto
 If you ever doubted crypto
 If you thought crypto was dead
 If you thought crypto was a scam
