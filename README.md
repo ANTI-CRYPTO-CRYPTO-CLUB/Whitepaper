@@ -1,5 +1,4 @@
 # Whitepaper
-Whitepaper
 
 ANTI CRYPTO CRYPTO CLUB
 
