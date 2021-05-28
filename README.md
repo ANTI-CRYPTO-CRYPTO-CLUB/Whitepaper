@@ -1,8 +1,10 @@
 # Whitepaper
 Whitepaper
 
+ANTI CRYPTO CRYPTO CLUB
+
               
-   ANTI TOKEN
+   ANTI   TOKEN
 
 
 Decentralized Crypto Social Club Established 2021
